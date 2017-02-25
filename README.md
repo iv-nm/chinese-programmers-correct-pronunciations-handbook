@@ -40,5 +40,6 @@
 | safari [🔊](http://dict.youdao.com/dictvoice?audio=safari&type=2)       | /sə'fɑːrɪ/   | 
 | sudo                                                                    | /'suːduː/    | 
 | suite [🔊](http://dict.youdao.com/dictvoice?audio=suite&type=2)         | /swiːt/      | 
+| tornado | /tɔː'neɪdəʊ/ |
 | Ubuntu [🔊](http://dict.youdao.com/dictvoice?audio=ubuntu&type=2)       | /ʊ'bʊntʊ/    | 
 | YouTube [🔊](http://dict.youdao.com/dictvoice?audio=youtube&type=2)     | /'juːˌtjuːb/ | 
