@@ -7,11 +7,11 @@
 
 | 单词                                                                    | 正确发音     | 
 | ----                                                                    | -------      | 
-| Arch (Linux 发行版) | /ɑːtʃ/ |
-| Angular [🔊](http://dict.youdao.com/dictvoice?audio=Angular&type=2)     | /'æŋgjʊlə/   | 
 | AJAX [🔊](http://dict.youdao.com/dictvoice?audio=AJAX&type=2)           | /'eɪdʒæks/   | 
+| Angular [🔊](http://dict.youdao.com/dictvoice?audio=Angular&type=2)     | /'æŋgjʊlə/   | 
 | Apache [🔊](http://dict.youdao.com/dictvoice?audio=Apache&type=2)       | /ə'pætʃɪ/    | 
 | app [🔊](http://dict.youdao.com/dictvoice?audio=app&type=2)             | /æp/         | 
+| Arch (Linux 发行版) | /ɑːtʃ/ |
 | archive [🔊](http://dict.youdao.com/dictvoice?audio=archive&type=2)     | /'ɑːkaɪv/    | 
 | avatar [🔊](http://dict.youdao.com/dictvoice?audio=avatar&type=2)       | /'ævətɑː/    | 
 | Azure [🔊](http://dict.youdao.com/dictvoice?audio=azure&type=2)         | /'æʒə/       | 
