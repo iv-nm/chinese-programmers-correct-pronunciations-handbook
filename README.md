@@ -1,4 +1,5 @@
-# chinese-programmer-wrong-pronunciation
+# Chinese Programmers' Correct Pronunciation Handbook
+
 中国程序员容易发音错误的单词的正确发音。
 
 * 为了避免见多了错误的发音导致混淆，本资料不提供错误发音。
