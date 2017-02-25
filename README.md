@@ -7,6 +7,7 @@
 
 | 单词                                                                    | 正确发音     | 
 | ----                                                                    | -------      | 
+| Arch (Linux 发行版) | [ɑːtʃ] |
 | Angular [🔊](http://dict.youdao.com/dictvoice?audio=Angular&type=2)     | ['æŋgjʊlə]   | 
 | AJAX [🔊](http://dict.youdao.com/dictvoice?audio=AJAX&type=2)           | ['eɪdʒæks]   | 
 | Apache [🔊](http://dict.youdao.com/dictvoice?audio=Apache&type=2)       | [ə'pætʃɪ]    | 
@@ -15,10 +16,12 @@
 | avatar [🔊](http://dict.youdao.com/dictvoice?audio=avatar&type=2)       | ['ævətɑː]    | 
 | Azure [🔊](http://dict.youdao.com/dictvoice?audio=azure&type=2)         | ['æʒə]       | 
 | cache [🔊](http://dict.youdao.com/dictvoice?audio=cache&type=2)         | [kæʃ]        | 
+| Debian [src](https://en.wikipedia.org/wiki/Debian) | [ˈdɛbiən] |
 | deque [🔊](http://dict.youdao.com/dictvoice?audio=deque&type=2)         | [dek]        | 
 | digest [🔊](http://dict.youdao.com/dictvoice?audio=digest&type=2)       | ['dɑɪdʒɛst]  | 
 | Django [🔊](http://dict.youdao.com/dictvoice?audio=Django&type=2)       | [ˈdʒæŋɡoʊ]   | 
 | facade [🔊](http://dict.youdao.com/dictvoice?audio=facade&type=2)       | [fə'sɑːd]]   | 
+| Fedora | [fɪ'dɔːrə] |
 | Git [🔊](http://dict.youdao.com/dictvoice?audio=git&type=2)             | [ɡɪt]        | 
 | GNU [🔊](http://dict.youdao.com/dictvoice?audio=GNU&type=2)             | [gnu:]       | 
 | GUI [🔊](http://dict.youdao.com/dictvoice?audio=GUI&type=2)             | [ɡui]        | 
@@ -28,6 +31,7 @@
 | JPEG [🔊](http://dict.youdao.com/dictvoice?audio=JPEG&type=2)           | ['dʒeɪpeɡ]   | 
 | Linux [🔊](http://dict.youdao.com/dictvoice?audio=linux&type=2)         | ['lɪnəks]    | 
 | nginx                                                                   | Engine X     | 
+| openSUSE [src](https://en.wikipedia.org/wiki/OpenSUSE) | [ˌoʊpənˈsuːzə] |
 | OS X                                                                    | OS ten       | 
 | parameter [🔊](http://dict.youdao.com/dictvoice?audio=parameter&type=2) | [pə'ræmɪtə]  | 
 | putty [🔊](http://dict.youdao.com/dictvoice?audio=putty&type=2)         | [ˈpʌti]      | 
