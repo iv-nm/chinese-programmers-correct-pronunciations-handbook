@@ -34,10 +34,12 @@
 | openSUSE [src](https://en.wikipedia.org/wiki/OpenSUSE) | /ˌoʊpənˈsuːzə/ |
 | OS X                                                                    | OS ten       | 
 | parameter [🔊](http://dict.youdao.com/dictvoice?audio=parameter&type=2) | /pə'ræmɪtə/  | 
+| PostgreSQL |  /ˈpoʊstɡrɛs ˌkjuː ˈɛl/ |
 | putty [🔊](http://dict.youdao.com/dictvoice?audio=putty&type=2)         | /ˈpʌti/      | 
 | retina [🔊](http://dict.youdao.com/dictvoice?audio=retina&type=2)       | /'retɪnə/    | 
 | San Jose [🔊](http://dict.youdao.com/dictvoice?audio=san%20jose&type=2) | /sænhəu'zei/ | 
 | safari [🔊](http://dict.youdao.com/dictvoice?audio=safari&type=2)       | /sə'fɑːrɪ/   | 
+| SQL | /ˈɛs kjuː ˈɛl/, /ˈsiːkwəl/ |
 | sudo                                                                    | /'suːduː/    | 
 | suite [🔊](http://dict.youdao.com/dictvoice?audio=suite&type=2)         | /swiːt/      | 
 | tornado | /tɔː'neɪdəʊ/ |
