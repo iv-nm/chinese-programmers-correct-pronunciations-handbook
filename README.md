@@ -44,6 +44,9 @@
 | Ubuntu [🔊](http://dict.youdao.com/dictvoice?audio=ubuntu&type=2)       | /ʊ'bʊntʊ/    | 
 | YouTube [🔊](http://dict.youdao.com/dictvoice?audio=youtube&type=2)     | /'juːˌtjuːb/ | 
 
+# 功能
+* [发送到 Kindle](http://fivefilters.org/kindle-it/send.php?url=https%3A%2F%2Fgithub.com%2Flilydjwg%2Fchinese-programmers-corrent-pronunciations-handbook)
+
 # TODO
 * flashcards for self-test
 * use datafile and generate the table above
