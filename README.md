@@ -41,6 +41,7 @@
 | San Jose [🔊](http://dict.youdao.com/dictvoice?audio=san%20jose&type=2) | /sænhəu'zei/ | 
 | safari [🔊](http://dict.youdao.com/dictvoice?audio=safari&type=2)       | /sə'fɑːrɪ/   | 
 | SQL | /ˈɛs kjuː ˈɛl/, /ˈsiːkwəl/ |
+| SQLite | /ˌɛskjuːɛlˈlaɪt/, /ˈsiːkwəl.laɪt/ |
 | sudo                                                                    | /'suːduː/    | 
 | suite [🔊](http://dict.youdao.com/dictvoice?audio=suite&type=2)         | /swiːt/      | 
 | tornado | /tɔː'neɪdəʊ/ |
