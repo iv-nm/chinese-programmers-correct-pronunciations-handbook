@@ -45,6 +45,7 @@
 | sudo                                                                    | /'suːduː/    | 
 | suite [🔊](http://dict.youdao.com/dictvoice?audio=suite&type=2)         | /swiːt/      | 
 | tornado | /tɔː'neɪdəʊ/ |
+| Visio | /ˈvɪz.i.oʊ/ |
 | Ubuntu [🔊](http://dict.youdao.com/dictvoice?audio=ubuntu&type=2)       | /ʊ'bʊntʊ/    | 
 | YouTube [🔊](http://dict.youdao.com/dictvoice?audio=youtube&type=2)     | /'juːˌtjuːb/ | 
 
