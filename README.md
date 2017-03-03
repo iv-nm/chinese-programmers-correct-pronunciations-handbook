@@ -18,6 +18,7 @@
 | cache [🔊](http://dict.youdao.com/dictvoice?audio=cache&type=2)         | /kæʃ/        | 
 | Debian [src](https://en.wikipedia.org/wiki/Debian) | /ˈdɛbiən/ |
 | daemon | /ˈdiːmən/ |
+| discipline | /'dɪsɪplɪn/ |
 | deque [🔊](http://dict.youdao.com/dictvoice?audio=deque&type=2)         | /dek/        | 
 | digest [🔊](http://dict.youdao.com/dictvoice?audio=digest&type=2)       | /'dɑɪdʒɛst/  | 
 | Django [🔊](http://dict.youdao.com/dictvoice?audio=Django&type=2)       | /ˈdʒæŋɡoʊ/   | 
