@@ -32,6 +32,7 @@
 | integer [🔊](http://dict.youdao.com/dictvoice?audio=integer&type=2)     | /'ɪntɪdʒə/   | 
 | Java [🔊](http://dict.youdao.com/dictvoice?audio=java&type=2)           | /'dʒɑːvə/    | 
 | JPEG [🔊](http://dict.youdao.com/dictvoice?audio=JPEG&type=2)           | /'dʒeɪpeɡ/   | 
+| linear | /'lɪnɪə/ |
 | Linux [🔊](http://dict.youdao.com/dictvoice?audio=linux&type=2)         | /'lɪnəks/    | 
 | nginx                                                                   | Engine X     | 
 | openSUSE [src](https://en.wikipedia.org/wiki/OpenSUSE) | /ˌoʊpənˈsuːzə/ |
