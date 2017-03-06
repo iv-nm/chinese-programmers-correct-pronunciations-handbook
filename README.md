@@ -20,7 +20,7 @@
 | daemon | /ˈdiːmən/ |
 | discipline | /'dɪsɪplɪn/ |
 | deque [🔊](http://dict.youdao.com/dictvoice?audio=deque&type=2)         | /dek/        | 
-| digest [🔊](http://dict.youdao.com/dictvoice?audio=digest&type=2)       | /'dɑɪdʒɛst/  | 
+| digest [🔊](http://dict.youdao.com/dictvoice?audio=digest&type=2)       | /daɪ'dʒɛst/  | 
 | Django [🔊](http://dict.youdao.com/dictvoice?audio=Django&type=2)       | /ˈdʒæŋɡoʊ/   | 
 | facade [🔊](http://dict.youdao.com/dictvoice?audio=facade&type=2)       | /fə'sɑːd]/   | 
 | fcitx | /ˈfaɪtɪks/ |
