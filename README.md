@@ -8,6 +8,7 @@
 | 单词                                                                    | 正确发音     | 
 | ----                                                                    | -------      | 
 | AJAX [🔊](http://dict.youdao.com/dictvoice?audio=AJAX&type=2)           | /'eɪdʒæks/   | 
+| Amazon [🔊](http://dict.youdao.com/dictvoice?audio=amazon&type=1)       | /'æməzən/    |
 | Angular [🔊](http://dict.youdao.com/dictvoice?audio=Angular&type=2)     | /'æŋgjʊlə/   | 
 | Apache [🔊](http://dict.youdao.com/dictvoice?audio=Apache&type=2)       | /ə'pætʃɪ/    | 
 | app [🔊](http://dict.youdao.com/dictvoice?audio=app&type=2)             | /æp/         | 
